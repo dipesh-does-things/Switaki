@@ -1,7 +1,7 @@
 /*
  * Copyright (c) 2020, Nathan Casabieille
  *
- * This file is part of Switaki
+ * Copyright (c) 2020, Switaki-Dev
  *
  * Switaki is free software: you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by

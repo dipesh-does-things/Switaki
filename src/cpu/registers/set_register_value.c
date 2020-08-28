@@ -1,5 +1,5 @@
 /*
- * Copyright (c) 2020, Nathan Casabieille
+ * Copyright (c) 2020, Switaki-Dev
  *
  * This file is part of Switaki
  *
