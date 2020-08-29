@@ -21,13 +21,13 @@
 
 uint8_t add8(cpu_t *cpu, uint8_t n1, uint8_t n2)
 {
-  uint16_t result = (uint16_t)n1 + (uint16_t)n2;
+    uint16_t result = (uint16_t)n1 + (uint16_t)n2;
 
-  if (result > UINT8_MAX) {
-    set_flag(cpu, FLAG_CF);
-    return (UINT8_MAX);
-  }
-  return (result &= UINT8_MAX);
+    if (result > UINT8_MAX) {
+        set_flag(cpu, FLAG_CF);
+        return (UINT8_MAX);
+    }
+    return (result &= UINT8_MAX);
 }
 
 uint16_t add16(cpu_t *cpu, uint16_t n1, uint16_t n2)
