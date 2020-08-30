@@ -29,6 +29,6 @@ void update_flags(cpu_t *cpu, uint8_t reg)
     }
     if (cpu->registers[reg] >> 15) {
         set_flag(cpu, FLAG_SF);
-        set_flag(cpu,FLAG_OF);
+        set_flag(cpu, FLAG_OF);
     }
 }
