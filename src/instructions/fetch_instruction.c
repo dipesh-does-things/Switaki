@@ -19,7 +19,7 @@
 
 #include "switaki.h"
 
-inline uint16_t __attribute__((always_inline)) __attribute__((hot)) fetch_instruction(uint16_t address)
+inline uint16_t __attribute__((always_inline)) fetch_instruction(uint16_t address)
 {
     return (image[address]);
 }
