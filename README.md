@@ -3,8 +3,8 @@
 [![Version](https://img.shields.io/badge/alpha-v0.1-red)](https://github.com/nathan-casabieille/Switaki)
 [![License](https://img.shields.io/badge/license-GPL-yellowgreen)](https://github.com/nathan-casabieille/Switaki)
 [![Build Status](https://travis-ci.org/nathan-casabieille/Switaki.svg?branch=master)](https://travis-ci.org/nathan-casabieille/Switaki)
-[![Files](https://tokei.rs/b1/github/nathan-casabieille/Switaki?category=files)](https://github.com/nathan-casabieille/Switaki)
-[![Lines](https://tokei.rs/b1/github/nathan-casabieille/Switaki?category=lines)](https://github.com/nathan-casabieille/Switaki)
+[![Files](https://tokei.rs/b1/github/Switaki-Dev/Switaki?category=files)](https://github.com/Switaki-Dev/Switaki)
+[![Lines](https://tokei.rs/b1/github/Switaki-Dev/Switaki?category=lines)](https://github.com/Switaki-Dev/Switaki)
 
 
 ```diff
